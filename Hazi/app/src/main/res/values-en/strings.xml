@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hazi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="N">N</string>
+    <string name="NNE">NNE</string>
+    <string name="NE">NE</string>
+    <string name="ENE">ENE</string>
+    <string name="E">E</string>
+    <string name="ESE">ESE</string>
+    <string name="SE">SE</string>
+    <string name="SSE">SSE</string>
+    <string name="S">S</string>
+    <string name="SSW">SSW</string>
+    <string name="SW">SW</string>
+    <string name="WSW">WSW</string>
+    <string name="W">W</string>
+    <string name="WNW">WNW</string>
+    <string name="NW">NW</string>
+    <string name="NNW">NNW</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="low_pressure">Low pressure. You might experience headaches and fatigue.</string>
+    <string name="normal_pressure">Normal pressure. You should feel normal, no significant weather-related symptoms.</string>
+    <string name="high_pressure">High pressure. You might feel more energetic and alert</string>
+    <string name="low_visibility">Low visibility. Please drive carefully!</string>
+    <string name="normal_visibility">Normal visibility. No significant weather-related symptoms.</string>
+    <string name="high_visibility">High visibility. Weather will not affect visibility.</string>
+</resources>

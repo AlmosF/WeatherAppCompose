@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hazi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="N">É</string>
+    <string name="NNE">É-ÉK</string>
+    <string name="NE">ÉK</string>
+    <string name="ENE">K-ÉK</string>
+    <string name="E">K</string>
+    <string name="ESE">K-DK</string>
+    <string name="SE">D-K</string>
+    <string name="SSE">D-DK</string>
+    <string name="S">D</string>
+    <string name="SSW">D-DNY</string>
+    <string name="SW">DNY</string>
+    <string name="WSW">NY-DNY</string>
+    <string name="W">NY</string>
+    <string name="WNW">NY-ÉNY</string>
+    <string name="NW">ÉNY</string>
+    <string name="NNW">É-NY</string>
+    <string name="sunrise">Napkelte</string>
+    <string name="sunset">Napnyugta</string>
+    <string name="low_pressure">Alacsony légnyomás. Fejfájást és fáradtságot tapasztalhat.</string>
+    <string name="normal_pressure">Normál légnyomás. Nincsenek jelentős időjárási tünetek.</string>
+    <string name="high_pressure">Magas légnyomás. Energikusabbnak és éberebbnek érezheti magát.</string>
+    <string name="low_visibility">Alacsony látótávolság. Kérjük, vezessen óvatosan!</string>
+    <string name="normal_visibility">Normál látótávolság. Nincsenek jelentős időjárási tünetek.</string>
+    <string name="high_visibility">Jó látótávolság. Az időjárás nem befolyásolja a látást.</string>
+</resources>
